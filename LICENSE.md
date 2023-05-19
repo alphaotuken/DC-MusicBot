@@ -1,4 +1,5 @@
-# License for Discord-MusicBot
+
+# License for DC-MusicBot
 
 - The credits should not be changed.
 - The bot-code should be used for **private hosting** and **personal usage** only.
