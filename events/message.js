@@ -1,3 +1,4 @@
+
 /**
  *
  * @param {require("../structures/DiscordMusicBot")} client
