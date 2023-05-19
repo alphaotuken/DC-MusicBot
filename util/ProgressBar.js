@@ -1,4 +1,3 @@
-
 /**
  * Create a text progress bar
  * @param {Number} value - The value to fill the bar
