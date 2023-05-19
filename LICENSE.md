@@ -1,4 +1,3 @@
-
 # License for DC-MusicBot
 
 - The credits should not be changed.
