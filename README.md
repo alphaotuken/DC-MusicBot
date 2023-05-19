@@ -1,6 +1,11 @@
 <h1 align="center"><width="30px"> Discord Music Bot <width="30px"></h1>
 
-### BY TALO
+#### Credit:
+ - https://github.com/alphaotuken
+ - https://github.com/SudhanPlayz
+  <a href="https://github.com/SudhanPlayz/Discord-MusicBot/graphs/contributors">
+  <img src="https://contributors-img.web.app/image?repo=SudhanPlayz/Discord-MusicBot" />
+</a>
 
 ## ✨Latest Updates
 
