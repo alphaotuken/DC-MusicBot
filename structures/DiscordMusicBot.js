@@ -1,4 +1,3 @@
-
 const { Collection, Client, MessageEmbed } = require("discord.js");
 const { LavasfyClient } = require("lavasfy");
 const { Manager } = require("erela.js");
