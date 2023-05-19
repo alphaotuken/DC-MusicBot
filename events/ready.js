@@ -1,3 +1,4 @@
+
 module.exports = async (client) => {
   (client.Ready = true),
     client.user.setPresence({
