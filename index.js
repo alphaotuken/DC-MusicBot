@@ -1,4 +1,3 @@
-
 require("dotenv").config();
 const DiscordMusicBot = require("./structures/DiscordMusicBot");
 const { exec } = require("child_process");
