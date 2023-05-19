@@ -1,4 +1,3 @@
-
 module.exports = {
   Admins: ["UserID", "UserID"], // Admins of the bot, I don't know what this do. -Darren.
   ExpressServer: true, // If you wanted to make the website run or not
